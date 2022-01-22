@@ -7,7 +7,7 @@ After Mengdi's graduation from TUM, his [LRZ Gitlab](https://gitlab.lrz.de/users
 For more details, please have a look at the time leader's [personal website](https://alexanderepple.de/portfolio/time-thief/).
 
 ## Game Play
-<img src="https://user-images.githubusercontent.com/34072813/150657890-4990ef86-734d-4643-b6a5-24b9fa68c540.jpeg" width=30% height=30%>  <img src="https://user-images.githubusercontent.com/34072813/150657894-3e0e51cb-db20-473f-abb6-f08cf9ee5b22.jpeg" width=30% height=30%>  <img src="https://user-images.githubusercontent.com/34072813/150657897-cd9bde88-0579-4bbc-b8b3-4c753fdff609.jpeg" width=35% height=35%>
+<img src="https://user-images.githubusercontent.com/34072813/150657890-4990ef86-734d-4643-b6a5-24b9fa68c540.jpeg" width=30% height=30%>     <img src="https://user-images.githubusercontent.com/34072813/150657894-3e0e51cb-db20-473f-abb6-f08cf9ee5b22.jpeg" width=30% height=30%>     <img src="https://user-images.githubusercontent.com/34072813/150657897-cd9bde88-0579-4bbc-b8b3-4c753fdff609.jpeg" width=33% height=33%>
 
 ## Productive Whiteboard Session
 <img src="https://user-images.githubusercontent.com/34072813/150657975-7fa3a1cc-0ab8-4cc6-a609-0770d1c1ecb9.jpeg" width=50% height=50%>
