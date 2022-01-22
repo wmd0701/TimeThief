@@ -6,3 +6,7 @@ After Mengdi's graduation from TUM, his [LRZ Gitlab](https://gitlab.lrz.de/users
 
 For more details, please have a look at the time leader's [personal website](https://alexanderepple.de/portfolio/time-thief/).
 
+## Game Play
+![main menu UI](https://user-images.githubusercontent.com/34072813/150657890-4990ef86-734d-4643-b6a5-24b9fa68c540.jpeg)
+![timeholes in range](https://user-images.githubusercontent.com/34072813/150657894-3e0e51cb-db20-473f-abb6-f08cf9ee5b22.jpeg)
+![targest and player positions](https://user-images.githubusercontent.com/34072813/150657897-cd9bde88-0579-4bbc-b8b3-4c753fdff609.jpeg)
